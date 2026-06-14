@@ -17,6 +17,26 @@ Sistema de monitoramento de arquivos desenvolvido em Python utilizando a bibliot
 - Git
 - GitHub
 
+## Como executar
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/BearKuldne/SentinelBR.git
+```
+
+2. Instale as dependências:
+
+```bash
+pip install watchdog
+```
+
+3. Execute o programa:
+
+```bash
+python Main.py
+```
+
 ## Objetivo
 
 Projeto desenvolvido com o objetivo de estudar conceitos de monitoramento de arquivos e detecção de eventos relacionados à segurança da informação.
